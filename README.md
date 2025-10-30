@@ -1,2 +1,3 @@
 README!
-![Motivation](./happy-back-to-school.gif)
+
+![Motivation](./linus.png)
